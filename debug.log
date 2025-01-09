@@ -1,0 +1,1596 @@
+2025-01-08 16:10:50,314 ERROR name 'user' is not defined 46 
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py", line 31, in post
+NameError: name 'user' is not defined. Did you mean: 'User'?
+2025-01-08 16:10:50,394 WARNING Bad Request: /students/create/ 248 
+2025-01-08 16:10:50,396 WARNING "POST /students/create/ HTTP/1.1" 400 50 213 
+2025-01-08 16:12:25,581 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-08 16:12:31,601 INFO Watching for file changes with StatReloader 668 
+2025-01-08 16:12:45,724 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-08 16:12:49,153 INFO Watching for file changes with StatReloader 668 
+2025-01-08 16:13:44,751 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-08 16:13:48,719 INFO Watching for file changes with StatReloader 668 
+2025-01-08 16:14:18,350 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-08 16:14:21,644 INFO Watching for file changes with StatReloader 668 
+2025-01-08 19:18:33,198 INFO "POST /students/create/ HTTP/1.1" 200 64 213 
+2025-01-08 19:20:20,027 INFO "POST /students/create/ HTTP/1.1" 200 64 213 
+2025-01-08 19:20:24,648 INFO "POST /students/create/ HTTP/1.1" 200 64 213 
+2025-01-08 19:21:10,810 INFO "POST /students/create/ HTTP/1.1" 200 64 213 
+2025-01-08 19:22:12,643 WARNING Bad Request: /students/create/ 248 
+2025-01-08 19:22:12,646 WARNING "POST /students/create/ HTTP/1.1" 400 116 213 
+2025-01-08 19:22:27,285 WARNING Bad Request: /students/create/ 248 
+2025-01-08 19:22:27,287 WARNING "POST /students/create/ HTTP/1.1" 400 137 213 
+2025-01-08 19:22:35,703 INFO "POST /students/create/ HTTP/1.1" 200 64 213 
+2025-01-08 19:23:27,433 INFO Watching for file changes with StatReloader 668 
+2025-01-08 19:23:33,447 INFO "POST /students/create/ HTTP/1.1" 200 64 213 
+2025-01-08 19:28:03,758 INFO C:\Users\Admin\Desktop\REST API\rest\app\models.py changed, reloading. 266 
+2025-01-08 19:28:08,558 INFO Watching for file changes with StatReloader 668 
+2025-01-08 19:29:14,614 INFO C:\Users\Admin\Desktop\REST API\rest\app\models.py changed, reloading. 266 
+2025-01-08 19:29:19,614 INFO Watching for file changes with StatReloader 668 
+2025-01-08 19:29:41,936 INFO C:\Users\Admin\Desktop\REST API\rest\app\models.py changed, reloading. 266 
+2025-01-08 19:29:45,970 INFO Watching for file changes with StatReloader 668 
+2025-01-08 19:30:02,821 INFO C:\Users\Admin\Desktop\REST API\rest\app\models.py changed, reloading. 266 
+2025-01-08 19:30:49,163 INFO Watching for file changes with StatReloader 668 
+2025-01-08 19:30:57,111 INFO "POST /students/create/ HTTP/1.1" 200 64 213 
+2025-01-08 19:32:04,389 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-08 19:32:07,721 INFO Watching for file changes with StatReloader 668 
+2025-01-08 19:32:20,702 INFO "POST /students/create/ HTTP/1.1" 200 64 213 
+2025-01-08 19:40:11,168 INFO C:\Users\Admin\Desktop\REST API\rest\app\models.py changed, reloading. 266 
+2025-01-08 19:40:31,110 INFO Watching for file changes with StatReloader 668 
+2025-01-08 19:58:53,727 INFO "POST /students/create/ HTTP/1.1" 200 64 213 
+2025-01-08 20:03:02,602 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-08 20:03:10,847 INFO Watching for file changes with StatReloader 668 
+2025-01-08 20:03:39,430 ERROR name 'serial' is not defined 44 
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py", line 30, in post
+    serializers.save()
+    ^^^^^^
+NameError: name 'serial' is not defined
+2025-01-08 20:03:39,455 WARNING Bad Request: /students/create/ 248 
+2025-01-08 20:03:39,457 WARNING "POST /students/create/ HTTP/1.1" 400 51 213 
+2025-01-08 20:05:38,761 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-08 20:05:44,832 INFO Watching for file changes with StatReloader 668 
+2025-01-08 20:06:05,731 INFO "POST /students/create/ HTTP/1.1" 200 64 213 
+2025-01-08 20:06:37,478 WARNING Bad Request: /students/create/ 248 
+2025-01-08 20:06:37,479 WARNING "POST /students/create/ HTTP/1.1" 400 114 213 
+2025-01-08 20:06:49,232 INFO "POST /students/create/ HTTP/1.1" 200 64 213 
+2025-01-08 20:07:57,086 WARNING Bad Request: /students/create/ 248 
+2025-01-08 20:07:57,088 WARNING "POST /students/create/ HTTP/1.1" 400 114 213 
+2025-01-08 20:08:02,268 WARNING Bad Request: /students/create/ 248 
+2025-01-08 20:08:02,270 WARNING "POST /students/create/ HTTP/1.1" 400 114 213 
+2025-01-08 20:08:10,953 WARNING Bad Request: /students/create/ 248 
+2025-01-08 20:08:10,955 WARNING "POST /students/create/ HTTP/1.1" 400 125 213 
+2025-01-08 20:08:24,757 INFO "POST /students/create/ HTTP/1.1" 200 64 213 
+2025-01-08 20:08:42,678 WARNING Bad Request: /students/create/ 248 
+2025-01-08 20:08:42,678 WARNING "POST /students/create/ HTTP/1.1" 400 182 213 
+2025-01-08 20:13:56,090 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-08 20:13:59,960 INFO Watching for file changes with StatReloader 668 
+2025-01-08 20:14:20,245 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-08 20:14:25,534 INFO Watching for file changes with StatReloader 668 
+2025-01-08 20:14:35,270 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-08 20:14:40,157 INFO Watching for file changes with StatReloader 668 
+2025-01-08 20:14:57,347 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-08 20:15:02,516 INFO Watching for file changes with StatReloader 668 
+2025-01-08 20:15:24,830 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-08 20:15:29,027 INFO Watching for file changes with StatReloader 668 
+2025-01-08 20:15:34,464 ERROR User matching query does not exist. 44 
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py", line 27, in post
+    user = User.objects.get(username = 'kamala')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 649, in get
+    raise self.model.DoesNotExist(
+django.contrib.auth.models.User.DoesNotExist: User matching query does not exist.
+2025-01-08 20:15:34,485 WARNING Bad Request: /students/create/ 248 
+2025-01-08 20:15:34,487 WARNING "POST /students/create/ HTTP/1.1" 400 51 213 
+2025-01-08 20:15:39,851 ERROR User matching query does not exist. 44 
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py", line 27, in post
+    user = User.objects.get(username = 'kamala')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 649, in get
+    raise self.model.DoesNotExist(
+django.contrib.auth.models.User.DoesNotExist: User matching query does not exist.
+2025-01-08 20:15:39,851 WARNING Bad Request: /students/create/ 248 
+2025-01-08 20:15:39,860 WARNING "POST /students/create/ HTTP/1.1" 400 51 213 
+2025-01-08 20:15:55,419 INFO Watching for file changes with StatReloader 668 
+2025-01-08 20:16:05,566 ERROR User matching query does not exist. 44 
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py", line 27, in post
+    user = User.objects.get(username = 'kamala')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 649, in get
+    raise self.model.DoesNotExist(
+django.contrib.auth.models.User.DoesNotExist: User matching query does not exist.
+2025-01-08 20:16:05,579 WARNING Bad Request: /students/create/ 248 
+2025-01-08 20:16:05,581 WARNING "POST /students/create/ HTTP/1.1" 400 51 213 
+2025-01-08 20:17:26,346 ERROR User matching query does not exist. 44 
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py", line 27, in post
+    user = User.objects.get(username = 'kamala')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 649, in get
+    raise self.model.DoesNotExist(
+django.contrib.auth.models.User.DoesNotExist: User matching query does not exist.
+2025-01-08 20:17:26,349 WARNING Bad Request: /students/create/ 248 
+2025-01-08 20:17:26,351 WARNING "POST /students/create/ HTTP/1.1" 400 51 213 
+2025-01-08 20:17:34,753 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-08 20:17:40,079 INFO Watching for file changes with StatReloader 668 
+2025-01-08 20:17:53,267 ERROR User matching query does not exist. 44 
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py", line 27, in post
+    user = User.objects.get(username = 'lala')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 649, in get
+    raise self.model.DoesNotExist(
+django.contrib.auth.models.User.DoesNotExist: User matching query does not exist.
+2025-01-08 20:17:53,286 WARNING Bad Request: /students/create/ 248 
+2025-01-08 20:17:53,291 WARNING "POST /students/create/ HTTP/1.1" 400 51 213 
+2025-01-08 20:18:04,717 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-08 20:18:15,719 INFO Watching for file changes with StatReloader 668 
+2025-01-08 20:18:24,249 ERROR User matching query does not exist. 44 
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py", line 27, in post
+    user = User.objects.get(username = 'lama')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 649, in get
+    raise self.model.DoesNotExist(
+django.contrib.auth.models.User.DoesNotExist: User matching query does not exist.
+2025-01-08 20:18:24,260 WARNING Bad Request: /students/create/ 248 
+2025-01-08 20:18:24,262 WARNING "POST /students/create/ HTTP/1.1" 400 51 213 
+2025-01-08 20:21:26,606 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-08 20:21:30,977 INFO Watching for file changes with StatReloader 668 
+2025-01-08 20:21:39,622 WARNING Not Found: /students/create/ 248 
+2025-01-08 20:21:39,625 WARNING "POST /students/create/ HTTP/1.1" 404 54 213 
+2025-01-08 20:21:58,643 WARNING Not Found: /students/create/ 248 
+2025-01-08 20:21:58,645 WARNING "POST /students/create/ HTTP/1.1" 404 54 213 
+2025-01-08 20:22:02,332 WARNING Not Found: /students/create/ 248 
+2025-01-08 20:22:02,335 WARNING "POST /students/create/ HTTP/1.1" 404 54 213 
+2025-01-08 20:23:52,820 WARNING Not Found: /students/create/ 248 
+2025-01-08 20:23:52,821 WARNING "POST /students/create/ HTTP/1.1" 404 54 213 
+2025-01-08 20:23:57,201 WARNING Not Found: /students/create/ 248 
+2025-01-08 20:23:57,204 WARNING "POST /students/create/ HTTP/1.1" 404 54 213 
+2025-01-08 20:24:44,107 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-08 20:24:50,476 INFO Watching for file changes with StatReloader 668 
+2025-01-08 20:24:56,852 INFO "POST /students/create/ HTTP/1.1" 201 65 213 
+2025-01-08 20:29:26,999 INFO C:\Users\Admin\Desktop\REST API\rest\app\models.py changed, reloading. 266 
+2025-01-08 20:29:31,609 INFO Watching for file changes with StatReloader 668 
+2025-01-08 20:29:35,885 INFO C:\Users\Admin\Desktop\REST API\rest\app\models.py changed, reloading. 266 
+2025-01-08 20:29:46,005 INFO Watching for file changes with StatReloader 668 
+2025-01-08 20:30:15,255 INFO Watching for file changes with StatReloader 668 
+2025-01-08 20:32:52,042 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-08 20:32:56,254 INFO Watching for file changes with StatReloader 668 
+2025-01-08 20:33:11,889 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-08 20:33:19,202 INFO Watching for file changes with StatReloader 668 
+2025-01-08 20:33:33,644 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-08 20:33:38,195 INFO Watching for file changes with StatReloader 668 
+2025-01-08 20:33:49,419 ERROR User matching query does not exist. 44 
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py", line 27, in post
+    user=User.objects.get(username="ram")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 649, in get
+    raise self.model.DoesNotExist(
+django.contrib.auth.models.User.DoesNotExist: User matching query does not exist.
+2025-01-08 20:33:49,434 ERROR Internal Server Error: /students/create/ 248 
+2025-01-08 20:33:49,436 ERROR "POST /students/create/ HTTP/1.1" 500 57 213 
+2025-01-08 20:38:57,047 ERROR User matching query does not exist. 44 
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py", line 27, in post
+    user=User.objects.get(username="ram")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 649, in get
+    raise self.model.DoesNotExist(
+django.contrib.auth.models.User.DoesNotExist: User matching query does not exist.
+2025-01-08 20:38:57,052 ERROR Internal Server Error: /students/create/ 248 
+2025-01-08 20:38:57,054 ERROR "POST /students/create/ HTTP/1.1" 500 57 213 
+2025-01-08 20:39:01,222 ERROR User matching query does not exist. 44 
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py", line 27, in post
+    user=User.objects.get(username="ram")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 649, in get
+    raise self.model.DoesNotExist(
+django.contrib.auth.models.User.DoesNotExist: User matching query does not exist.
+2025-01-08 20:39:01,227 ERROR Internal Server Error: /students/create/ 248 
+2025-01-08 20:39:01,228 ERROR "POST /students/create/ HTTP/1.1" 500 57 213 
+2025-01-08 20:39:25,938 ERROR User matching query does not exist. 44 
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py", line 27, in post
+    user=User.objects.get(username="ram")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 649, in get
+    raise self.model.DoesNotExist(
+django.contrib.auth.models.User.DoesNotExist: User matching query does not exist.
+2025-01-08 20:39:25,942 ERROR Internal Server Error: /students/create/ 248 
+2025-01-08 20:39:25,944 ERROR "POST /students/create/ HTTP/1.1" 500 57 213 
+2025-01-08 20:39:36,469 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-08 20:39:40,402 INFO Watching for file changes with StatReloader 668 
+2025-01-08 20:39:50,134 WARNING Bad Request: /students/create/ 248 
+2025-01-08 20:39:50,136 WARNING "POST /students/create/ HTTP/1.1" 400 114 213 
+2025-01-08 20:40:02,688 ERROR name 'user' is not defined 44 
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py", line 29, in post
+    serializer.save()
+                      
+NameError: name 'user' is not defined. Did you mean: 'User'?
+2025-01-08 20:40:02,745 ERROR Internal Server Error: /students/create/ 248 
+2025-01-08 20:40:02,749 ERROR "POST /students/create/ HTTP/1.1" 500 57 213 
+2025-01-08 20:40:14,870 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-08 20:40:18,998 INFO Watching for file changes with StatReloader 668 
+2025-01-08 20:40:24,002 INFO "POST /students/create/ HTTP/1.1" 201 65 213 
+2025-01-08 20:44:31,475 INFO C:\Users\Admin\Desktop\REST API\rest\rest\settings.py changed, reloading. 266 
+2025-01-08 20:44:35,501 INFO Watching for file changes with StatReloader 668 
+2025-01-08 20:57:29,063 INFO Watching for file changes with StatReloader 668 
+2025-01-08 20:58:01,550 INFO "POST /login/ HTTP/1.1" 200 13 213 
+2025-01-08 21:01:30,742 INFO "POST /login/ HTTP/1.1" 200 13 213 
+2025-01-08 21:03:01,876 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-08 21:03:07,035 INFO Watching for file changes with StatReloader 668 
+2025-01-08 21:03:15,952 INFO "POST /login/ HTTP/1.1" 200 13 213 
+2025-01-08 21:20:31,481 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-08 21:20:37,888 INFO Watching for file changes with StatReloader 668 
+2025-01-08 21:23:51,801 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-08 21:24:00,782 INFO Watching for file changes with StatReloader 668 
+2025-01-08 21:24:12,837 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-08 21:24:16,916 INFO Watching for file changes with StatReloader 668 
+2025-01-08 21:24:35,944 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-08 21:24:41,873 INFO Watching for file changes with StatReloader 668 
+2025-01-08 21:24:58,887 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-08 21:25:02,439 INFO Watching for file changes with StatReloader 668 
+2025-01-08 21:25:17,002 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-08 21:25:22,207 INFO Watching for file changes with StatReloader 668 
+2025-01-08 21:25:37,916 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-08 21:25:48,920 INFO Watching for file changes with StatReloader 668 
+2025-01-08 21:26:09,264 INFO Watching for file changes with StatReloader 668 
+2025-01-08 21:26:51,262 INFO C:\Users\Admin\Desktop\REST API\rest\user\models.py changed, reloading. 266 
+2025-01-08 21:27:05,365 INFO Watching for file changes with StatReloader 668 
+2025-01-08 21:27:22,058 WARNING Not Found: /login/ 248 
+2025-01-08 21:27:22,060 WARNING "POST /login/ HTTP/1.1" 404 46 213 
+2025-01-08 21:29:05,156 INFO Watching for file changes with StatReloader 668 
+2025-01-08 21:29:27,344 INFO "POST /login/ HTTP/1.1" 200 104 213 
+2025-01-08 21:43:32,768 INFO C:\Users\Admin\Desktop\REST API\rest\user\urls.py changed, reloading. 266 
+2025-01-08 21:43:39,024 INFO Watching for file changes with StatReloader 668 
+2025-01-08 21:44:02,992 INFO C:\Users\Admin\Desktop\REST API\rest\user\urls.py changed, reloading. 266 
+2025-01-08 21:44:17,857 INFO Watching for file changes with StatReloader 668 
+2025-01-08 21:46:39,805 WARNING Not Found: /register/ 248 
+2025-01-08 21:46:39,807 WARNING "POST /register/ HTTP/1.1" 404 214 213 
+2025-01-08 21:48:28,276 ERROR JSON parse error - Expecting value: line 2 column 1 (char 2) 123 
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\parsers.py", line 66, in parse
+    return json.load(decoded_stream, parse_constant=parse_constant)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\utils\json.py", line 31, in load
+    return json.load(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 359, in loads
+    return cls(**kw).decode(s)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 2 column 1 (char 2)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\user\views.py", line 65, in post
+    data = request.data
+           ^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 220, in data
+    self._load_data_and_files()
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 283, in _load_data_and_files
+    self._data, self._files = self._parse()
+                              ^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\request.py", line 358, in _parse
+    parsed = parser.parse(stream, media_type, self.parser_context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\parsers.py", line 68, in parse
+    raise ParseError('JSON parse error - %s' % str(exc))
+rest_framework.exceptions.ParseError: JSON parse error - Expecting value: line 2 column 1 (char 2)
+2025-01-08 21:48:28,301 ERROR Internal Server Error: /register/ 248 
+2025-01-08 21:48:28,306 ERROR "POST /register/ HTTP/1.1" 500 49 213 
+2025-01-09 10:18:10,229 INFO Watching for file changes with StatReloader 668 
+2025-01-09 10:27:39,861 WARNING Not Found: /register/ 248 
+2025-01-09 10:27:39,905 WARNING "POST /register/ HTTP/1.1" 404 178 213 
+2025-01-09 10:28:28,423 WARNING Not Found: /register/ 248 
+2025-01-09 10:28:28,431 WARNING "POST /register/ HTTP/1.1" 404 127 213 
+2025-01-09 10:28:50,160 WARNING Not Found: /register/ 248 
+2025-01-09 10:28:50,160 WARNING "POST /register/ HTTP/1.1" 404 127 213 
+2025-01-09 10:29:59,279 WARNING Not Found: /register/ 248 
+2025-01-09 10:29:59,279 WARNING "POST /register/ HTTP/1.1" 404 96 213 
+2025-01-09 10:30:10,347 WARNING Not Found: /register/ 248 
+2025-01-09 10:30:10,347 WARNING "POST /register/ HTTP/1.1" 404 126 213 
+2025-01-09 10:32:26,737 WARNING Not Found: /register/ 248 
+2025-01-09 10:32:26,737 WARNING "POST /register/ HTTP/1.1" 404 94 213 
+2025-01-09 10:32:44,773 ERROR An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block. 123 
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\connections.py", line 265, in query
+    _mysql.connection.query(self, query)
+MySQLdb.ProgrammingError: (1146, "Table 'rest.balance' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\user\views.py", line 108, in post
+    UserBalance.objects.create(balance =200, user=user)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 892, in save
+    self.save_base(
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 998, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 1161, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 1202, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\compiler.py", line 1836, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\connections.py", line 265, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'rest.balance' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\user\views.py", line 116, in post
+    transaction.savepoint_rollback(sid)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\transaction.py", line 62, in savepoint_rollback
+    get_connection(using).savepoint_rollback(sid)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 413, in savepoint_rollback
+    self._savepoint_rollback(sid)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 371, in _savepoint_rollback
+    cursor.execute(self.ops.savepoint_rollback_sql(sid))
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 99, in _execute
+    self.db.validate_no_broken_transaction()
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 521, in validate_no_broken_transaction
+    raise TransactionManagementError(
+django.db.transaction.TransactionManagementError: An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+2025-01-09 10:32:45,552 ERROR Internal Server Error: /register/ 248 
+2025-01-09 10:32:45,552 ERROR "POST /register/ HTTP/1.1" 500 49 213 
+2025-01-09 10:34:23,732 INFO Watching for file changes with StatReloader 668 
+2025-01-09 10:34:39,108 ERROR An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block. 123 
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\connections.py", line 265, in query
+    _mysql.connection.query(self, query)
+MySQLdb.ProgrammingError: (1146, "Table 'rest.balance' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\user\views.py", line 108, in post
+    UserBalance.objects.create(balance =200, user=user)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 892, in save
+    self.save_base(
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 998, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 1161, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 1202, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\compiler.py", line 1836, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\connections.py", line 265, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'rest.balance' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\user\views.py", line 116, in post
+    transaction.savepoint_rollback(sid)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\transaction.py", line 62, in savepoint_rollback
+    get_connection(using).savepoint_rollback(sid)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 413, in savepoint_rollback
+    self._savepoint_rollback(sid)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 371, in _savepoint_rollback
+    cursor.execute(self.ops.savepoint_rollback_sql(sid))
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 99, in _execute
+    self.db.validate_no_broken_transaction()
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 521, in validate_no_broken_transaction
+    raise TransactionManagementError(
+django.db.transaction.TransactionManagementError: An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+2025-01-09 10:34:39,164 ERROR Internal Server Error: /register/ 248 
+2025-01-09 10:34:39,164 ERROR "POST /register/ HTTP/1.1" 500 49 213 
+2025-01-09 10:34:58,118 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 10:35:03,360 INFO Watching for file changes with StatReloader 668 
+2025-01-09 10:35:14,236 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 10:35:19,920 INFO Watching for file changes with StatReloader 668 
+2025-01-09 10:36:15,648 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 10:36:20,114 INFO Watching for file changes with StatReloader 668 
+2025-01-09 10:36:31,901 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 10:36:35,275 INFO Watching for file changes with StatReloader 668 
+2025-01-09 10:37:01,645 ERROR Error: (1146, "Table 'rest.balance' doesn't exist") 124 
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\connections.py", line 265, in query
+    _mysql.connection.query(self, query)
+MySQLdb.ProgrammingError: (1146, "Table 'rest.balance' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\user\views.py", line 117, in post
+    UserBalance.objects.create(balance=200, user=user)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 892, in save
+    self.save_base(
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 998, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 1161, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 1202, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\compiler.py", line 1836, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\connections.py", line 265, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'rest.balance' doesn't exist")
+2025-01-09 10:37:01,689 ERROR Internal Server Error: /register/ 248 
+2025-01-09 10:37:01,697 ERROR "POST /register/ HTTP/1.1" 500 66 213 
+2025-01-09 10:37:23,155 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 10:37:27,357 INFO Watching for file changes with StatReloader 668 
+2025-01-09 10:38:32,137 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 10:38:43,331 INFO Watching for file changes with StatReloader 668 
+2025-01-09 10:39:03,518 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 10:39:13,855 INFO Watching for file changes with StatReloader 668 
+2025-01-09 10:39:42,223 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 10:39:46,830 INFO Watching for file changes with StatReloader 668 
+2025-01-09 10:40:20,959 INFO Watching for file changes with StatReloader 668 
+2025-01-09 10:40:38,062 ERROR An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block. 123 
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\connections.py", line 265, in query
+    _mysql.connection.query(self, query)
+MySQLdb.ProgrammingError: (1146, "Table 'rest.balance' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\user\views.py", line 108, in post
+    UserBalance.objects.create(balance =200, user=user)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 892, in save
+    self.save_base(
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 998, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 1161, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 1202, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\compiler.py", line 1836, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\connections.py", line 265, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'rest.balance' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\user\views.py", line 116, in post
+    transaction.savepoint_rollback(sid)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\transaction.py", line 62, in savepoint_rollback
+    get_connection(using).savepoint_rollback(sid)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 413, in savepoint_rollback
+    self._savepoint_rollback(sid)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 371, in _savepoint_rollback
+    cursor.execute(self.ops.savepoint_rollback_sql(sid))
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 99, in _execute
+    self.db.validate_no_broken_transaction()
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 521, in validate_no_broken_transaction
+    raise TransactionManagementError(
+django.db.transaction.TransactionManagementError: An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+2025-01-09 10:40:38,125 ERROR Internal Server Error: /register/ 248 
+2025-01-09 10:40:38,125 ERROR "POST /register/ HTTP/1.1" 500 49 213 
+2025-01-09 10:45:13,554 WARNING Not Found: /register/ 248 
+2025-01-09 10:45:13,554 WARNING "POST /register/ HTTP/1.1" 404 91 213 
+2025-01-09 10:45:37,935 ERROR An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block. 123 
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\connections.py", line 265, in query
+    _mysql.connection.query(self, query)
+MySQLdb.ProgrammingError: (1146, "Table 'rest.balance' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\user\views.py", line 108, in post
+    UserBalance.objects.create(balance =200, user=user)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 892, in save
+    self.save_base(
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 998, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 1161, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 1202, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\compiler.py", line 1836, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\connections.py", line 265, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'rest.balance' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\user\views.py", line 116, in post
+    transaction.savepoint_rollback(sid)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\transaction.py", line 62, in savepoint_rollback
+    get_connection(using).savepoint_rollback(sid)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 413, in savepoint_rollback
+    self._savepoint_rollback(sid)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 371, in _savepoint_rollback
+    cursor.execute(self.ops.savepoint_rollback_sql(sid))
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 99, in _execute
+    self.db.validate_no_broken_transaction()
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 521, in validate_no_broken_transaction
+    raise TransactionManagementError(
+django.db.transaction.TransactionManagementError: An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+2025-01-09 10:45:37,959 ERROR Internal Server Error: /register/ 248 
+2025-01-09 10:45:37,959 ERROR "POST /register/ HTTP/1.1" 500 49 213 
+2025-01-09 10:47:56,814 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 10:48:02,227 INFO Watching for file changes with StatReloader 668 
+2025-01-09 10:48:42,946 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 10:48:46,638 INFO Watching for file changes with StatReloader 668 
+2025-01-09 10:48:54,382 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 10:48:58,173 INFO Watching for file changes with StatReloader 668 
+2025-01-09 10:49:09,939 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 10:49:15,161 INFO Watching for file changes with StatReloader 668 
+2025-01-09 10:49:23,099 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 10:49:26,844 INFO Watching for file changes with StatReloader 668 
+2025-01-09 10:49:40,850 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 10:49:45,616 INFO Watching for file changes with StatReloader 668 
+2025-01-09 10:50:11,136 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 10:50:15,072 INFO Watching for file changes with StatReloader 668 
+2025-01-09 10:50:26,152 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 10:50:29,358 INFO Watching for file changes with StatReloader 668 
+2025-01-09 10:50:40,960 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 10:50:44,729 INFO Watching for file changes with StatReloader 668 
+2025-01-09 10:50:56,132 INFO Watching for file changes with StatReloader 668 
+2025-01-09 10:51:26,134 INFO "POST /register/ HTTP/1.1" 200 66 213 
+2025-01-09 10:51:48,293 WARNING Not Found: /register/ 248 
+2025-01-09 10:51:48,293 WARNING "POST /register/ HTTP/1.1" 404 115 213 
+2025-01-09 11:00:23,717 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 11:00:28,922 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:00:43,542 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 11:00:46,862 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:00:59,252 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 11:01:04,252 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:01:21,992 WARNING Not Found: /register/ 248 
+2025-01-09 11:01:21,992 WARNING "POST /register/ HTTP/1.1" 404 115 213 
+2025-01-09 11:01:49,992 INFO "POST /register/ HTTP/1.1" 200 66 213 
+2025-01-09 11:02:52,587 INFO "POST /register/ HTTP/1.1" 200 66 213 
+2025-01-09 11:15:44,704 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 11:15:50,044 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:16:15,186 ERROR An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block. 123 
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\connections.py", line 265, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1048, "Column 'balance' cannot be null")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\user\views.py", line 108, in post
+    UserBalance.objects.create(user=user)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 892, in save
+    self.save_base(
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 998, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 1161, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 1202, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\compiler.py", line 1836, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\MySQLdb\connections.py", line 265, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1048, "Column 'balance' cannot be null")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\user\views.py", line 116, in post
+    transaction.savepoint_rollback(sid)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\transaction.py", line 62, in savepoint_rollback
+    get_connection(using).savepoint_rollback(sid)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 413, in savepoint_rollback
+    self._savepoint_rollback(sid)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 371, in _savepoint_rollback
+    cursor.execute(self.ops.savepoint_rollback_sql(sid))
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 99, in _execute
+    self.db.validate_no_broken_transaction()
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 521, in validate_no_broken_transaction
+    raise TransactionManagementError(
+django.db.transaction.TransactionManagementError: An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+2025-01-09 11:16:15,246 ERROR Internal Server Error: /register/ 248 
+2025-01-09 11:16:15,249 ERROR "POST /register/ HTTP/1.1" 500 49 213 
+2025-01-09 11:16:30,846 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 11:16:35,186 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:16:52,547 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:16:58,993 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 11:17:03,198 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:17:19,917 ERROR An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block. 123 
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\__init__.py", line 1811, in to_python
+    decimal_value = decimal.Decimal(value)
+                    ^^^^^^^^^^^^^^^^^^^^^^
+TypeError: conversion from ModelBase to Decimal is not supported
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\user\views.py", line 108, in post
+    UserBalance.objects.create(balance=UserBalance, user=user)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 892, in save
+    self.save_base(
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 998, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 1161, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 1202, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\compiler.py", line 1835, in execute_sql
+    for sql, params in self.as_sql():
+                       ^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\compiler.py", line 1760, in as_sql
+    self.prepare_value(field, self.pre_save_val(field, obj))
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\compiler.py", line 1699, in prepare_value
+    return field.get_db_prep_save(value, connection=self.connection)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\__init__.py", line 1830, in get_db_prep_save
+    self.to_python(value), self.max_digits, self.decimal_places
+    ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\__init__.py", line 1813, in to_python
+    raise exceptions.ValidationError(
+django.core.exceptions.ValidationError: ["“<class 'user.models.UserBalance'>” value must be a decimal number."]
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\user\views.py", line 116, in post
+    transaction.savepoint_rollback(sid)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\transaction.py", line 62, in savepoint_rollback
+    get_connection(using).savepoint_rollback(sid)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 413, in savepoint_rollback
+    self._savepoint_rollback(sid)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 371, in _savepoint_rollback
+    cursor.execute(self.ops.savepoint_rollback_sql(sid))
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 99, in _execute
+    self.db.validate_no_broken_transaction()
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 521, in validate_no_broken_transaction
+    raise TransactionManagementError(
+django.db.transaction.TransactionManagementError: An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+2025-01-09 11:17:20,108 ERROR Internal Server Error: /register/ 248 
+2025-01-09 11:17:20,109 ERROR "POST /register/ HTTP/1.1" 500 49 213 
+2025-01-09 11:17:32,113 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 11:17:35,424 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:17:44,159 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 11:17:47,609 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:18:01,078 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 11:18:05,402 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:18:19,779 ERROR An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block. 123 
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\__init__.py", line 1811, in to_python
+    decimal_value = decimal.Decimal(value)
+                    ^^^^^^^^^^^^^^^^^^^^^^
+TypeError: conversion from module to Decimal is not supported
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\user\views.py", line 108, in post
+    UserBalance.objects.create(balance=transaction, user=user)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 679, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 892, in save
+    self.save_base(
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 998, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 1161, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py", line 1202, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 1847, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\compiler.py", line 1835, in execute_sql
+    for sql, params in self.as_sql():
+                       ^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\compiler.py", line 1760, in as_sql
+    self.prepare_value(field, self.pre_save_val(field, obj))
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\compiler.py", line 1699, in prepare_value
+    return field.get_db_prep_save(value, connection=self.connection)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\__init__.py", line 1830, in get_db_prep_save
+    self.to_python(value), self.max_digits, self.decimal_places
+    ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\__init__.py", line 1813, in to_python
+    raise exceptions.ValidationError(
+django.core.exceptions.ValidationError: ["“<module 'django.db.transaction' from 'C:\\\\Users\\\\Admin\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python312\\\\Lib\\\\site-packages\\\\django\\\\db\\\\transaction.py'>” value must be a decimal number."]
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\user\views.py", line 116, in post
+    transaction.savepoint_rollback(sid)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\transaction.py", line 62, in savepoint_rollback
+    get_connection(using).savepoint_rollback(sid)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 413, in savepoint_rollback
+    self._savepoint_rollback(sid)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 371, in _savepoint_rollback
+    cursor.execute(self.ops.savepoint_rollback_sql(sid))
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py", line 99, in _execute
+    self.db.validate_no_broken_transaction()
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py", line 521, in validate_no_broken_transaction
+    raise TransactionManagementError(
+django.db.transaction.TransactionManagementError: An error occurred in the current transaction. You can't execute queries until the end of the 'atomic' block.
+2025-01-09 11:18:19,820 ERROR Internal Server Error: /register/ 248 
+2025-01-09 11:18:19,822 ERROR "POST /register/ HTTP/1.1" 500 49 213 
+2025-01-09 11:18:39,692 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 11:18:43,975 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:19:02,163 INFO "POST /register/ HTTP/1.1" 200 66 213 
+2025-01-09 11:20:35,874 INFO C:\Users\Admin\Desktop\REST API\rest\app\urls.py changed, reloading. 266 
+2025-01-09 11:20:40,949 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:20:52,895 INFO C:\Users\Admin\Desktop\REST API\rest\app\urls.py changed, reloading. 266 
+2025-01-09 11:20:56,848 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:21:06,820 INFO C:\Users\Admin\Desktop\REST API\rest\app\urls.py changed, reloading. 266 
+2025-01-09 11:21:13,539 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:21:52,962 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 11:22:00,412 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:22:14,325 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 11:22:31,213 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:22:59,467 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 11:23:04,122 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:23:15,818 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 11:23:19,184 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:25:17,325 WARNING Not Found: /register/ 248 
+2025-01-09 11:25:17,326 WARNING "POST /register/ HTTP/1.1" 404 115 213 
+2025-01-09 11:26:00,291 WARNING Not Found: /student/list/ 248 
+2025-01-09 11:26:00,296 WARNING "POST /student/list/ HTTP/1.1" 404 3539 213 
+2025-01-09 11:26:10,184 WARNING Not Found: /student/list/ 248 
+2025-01-09 11:26:10,186 WARNING "GET /student/list/ HTTP/1.1" 404 3538 213 
+2025-01-09 11:26:21,694 WARNING Not Found: /student/list/ 248 
+2025-01-09 11:26:21,695 WARNING "GET /student/list/ HTTP/1.1" 404 3538 213 
+2025-01-09 11:27:02,087 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 11:27:06,585 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:27:19,334 WARNING Not Found: /student/list/ 248 
+2025-01-09 11:27:19,335 WARNING "GET /student/list/ HTTP/1.1" 404 3538 213 
+2025-01-09 11:28:22,768 INFO C:\Users\Admin\Desktop\REST API\rest\app\urls.py changed, reloading. 266 
+2025-01-09 11:28:27,399 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:28:42,528 INFO "GET /student/list/ HTTP/1.1" 200 939 213 
+2025-01-09 11:29:15,451 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 11:29:23,089 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:29:39,553 INFO "GET /student/list/ HTTP/1.1" 200 58 213 
+2025-01-09 11:30:07,362 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 11:30:12,326 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:30:29,084 INFO "GET /student/list/ HTTP/1.1" 200 415 213 
+2025-01-09 11:35:25,242 WARNING Not Found: /student/login/ 248 
+2025-01-09 11:35:25,246 WARNING "GET /student/login/ HTTP/1.1" 404 3543 213 
+2025-01-09 11:36:05,325 WARNING Method Not Allowed: /login/ 248 
+2025-01-09 11:36:05,327 WARNING "GET /login/ HTTP/1.1" 405 40 213 
+2025-01-09 11:36:14,576 ERROR Internal Server Error: /login/ 248 
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\REST API\rest\user\views.py", line 44, in post
+    error_list, user_name, password1 = login_data(request)
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\REST API\rest\user\views.py", line 17, in login_data
+    auth_headers = request.META['HTTP_AUTHORIZATION']
+                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'HTTP_AUTHORIZATION'
+2025-01-09 11:36:14,597 ERROR "POST /login/ HTTP/1.1" 500 93547 213 
+2025-01-09 11:36:59,802 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:37:13,533 ERROR Internal Server Error: /login/ 248 
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\REST API\rest\user\views.py", line 44, in post
+    error_list, user_name, password1 = login_data(request)
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\REST API\rest\user\views.py", line 17, in login_data
+    auth_headers = request.META['HTTP_AUTHORIZATION']
+                   ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'HTTP_AUTHORIZATION'
+2025-01-09 11:37:13,548 ERROR "POST /login/ HTTP/1.1" 500 93547 213 
+2025-01-09 11:39:21,466 INFO "POST /login/ HTTP/1.1" 200 104 213 
+2025-01-09 11:41:09,971 INFO "POST /login/ HTTP/1.1" 200 104 213 
+2025-01-09 11:41:25,741 ERROR Internal Server Error: /login/ 248 
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\REST API\rest\user\views.py", line 44, in post
+    error_list, user_name, password1 = login_data(request)
+                                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\REST API\rest\user\views.py", line 19, in login_data
+    decoded_data = base64.b64decode(encoded_data).decode('utf-8').split(":")
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xf3 in position 0: invalid continuation byte
+2025-01-09 11:41:25,753 ERROR "POST /login/ HTTP/1.1" 500 95082 213 
+2025-01-09 11:41:56,031 INFO "POST /login/ HTTP/1.1" 200 104 213 
+2025-01-09 11:42:34,901 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 11:42:37,915 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:42:54,119 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 11:42:59,933 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:43:27,225 INFO C:\Users\Admin\Desktop\REST API\rest\user\views.py changed, reloading. 266 
+2025-01-09 11:43:32,412 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:44:20,235 WARNING Method Not Allowed: /student/list/ 248 
+2025-01-09 11:44:20,239 WARNING "POST /student/list/ HTTP/1.1" 405 41 213 
+2025-01-09 11:44:37,872 INFO "GET /student/list/ HTTP/1.1" 200 415 213 
+2025-01-09 11:45:07,290 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 11:45:12,430 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:45:40,354 ERROR cannot access local variable 'student' where it is not associated with a value 67 
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py", line 54, in get
+    print(student.headers)
+          ^^^^^^^
+UnboundLocalError: cannot access local variable 'student' where it is not associated with a value
+2025-01-09 11:45:40,425 WARNING Bad Request: /student/list/ 248 
+2025-01-09 11:45:40,426 WARNING "GET /student/list/ HTTP/1.1" 400 50 213 
+2025-01-09 11:46:21,803 ERROR cannot access local variable 'student' where it is not associated with a value 67 
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py", line 54, in get
+    print(student.headers)
+          ^^^^^^^
+UnboundLocalError: cannot access local variable 'student' where it is not associated with a value
+2025-01-09 11:46:21,805 WARNING Bad Request: /student/list/ 248 
+2025-01-09 11:46:21,810 WARNING "GET /student/list/ HTTP/1.1" 400 50 213 
+2025-01-09 11:47:09,462 ERROR cannot access local variable 'student' where it is not associated with a value 67 
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py", line 54, in get
+    print(student.headers)
+          ^^^^^^^
+UnboundLocalError: cannot access local variable 'student' where it is not associated with a value
+2025-01-09 11:47:09,466 WARNING Bad Request: /student/list/ 248 
+2025-01-09 11:47:09,469 WARNING "GET /student/list/ HTTP/1.1" 400 50 213 
+2025-01-09 11:47:58,813 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:48:12,480 ERROR cannot access local variable 'student' where it is not associated with a value 67 
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py", line 54, in get
+    print(student.headers)
+          ^^^^^^^
+UnboundLocalError: cannot access local variable 'student' where it is not associated with a value
+2025-01-09 11:48:12,493 WARNING Bad Request: /student/list/ 248 
+2025-01-09 11:48:12,494 WARNING "GET /student/list/ HTTP/1.1" 400 50 213 
+2025-01-09 11:48:40,519 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 11:48:45,899 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:48:59,751 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 11:49:07,032 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:49:39,954 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 11:49:43,394 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:50:30,751 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 11:50:34,062 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:51:08,548 WARNING Unauthorized: /student/list/ 248 
+2025-01-09 11:51:08,550 WARNING "GET /student/list/ HTTP/1.1" 401 58 213 
+2025-01-09 11:52:10,356 WARNING Unauthorized: /student/list/ 248 
+2025-01-09 11:52:10,358 WARNING "GET /student/list/ HTTP/1.1" 401 58 213 
+2025-01-09 11:52:51,953 WARNING Method Not Allowed: /login/ 248 
+2025-01-09 11:52:51,955 WARNING "GET /login/ HTTP/1.1" 405 40 213 
+2025-01-09 11:53:15,213 INFO "POST /login/ HTTP/1.1" 200 104 213 
+2025-01-09 11:53:36,685 WARNING Unauthorized: /student/list/ 248 
+2025-01-09 11:53:36,686 WARNING "POST /student/list/ HTTP/1.1" 401 58 213 
+2025-01-09 11:53:41,267 WARNING Unauthorized: /student/list/ 248 
+2025-01-09 11:53:41,269 WARNING "GET /student/list/ HTTP/1.1" 401 58 213 
+2025-01-09 11:54:50,648 WARNING Unauthorized: /student/list/ 248 
+2025-01-09 11:54:50,649 WARNING "GET /student/list/ HTTP/1.1" 401 58 213 
+2025-01-09 11:54:55,194 WARNING Unauthorized: /student/list/ 248 
+2025-01-09 11:54:55,195 WARNING "GET /student/list/ HTTP/1.1" 401 58 213 
+2025-01-09 11:55:14,894 WARNING Unauthorized: /student/list/ 248 
+2025-01-09 11:55:14,896 WARNING "GET /student/list/ HTTP/1.1" 401 58 213 
+2025-01-09 11:56:58,065 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 11:57:04,898 INFO Watching for file changes with StatReloader 668 
+2025-01-09 11:57:18,126 WARNING Unauthorized: /student/list/ 248 
+2025-01-09 11:57:18,128 WARNING "GET /student/list/ HTTP/1.1" 401 58 213 
+2025-01-09 11:57:32,892 WARNING Unauthorized: /student/list/ 248 
+2025-01-09 11:57:32,895 WARNING "GET /student/list/ HTTP/1.1" 401 58 213 
+2025-01-09 11:57:46,741 WARNING Unauthorized: /student/list/ 248 
+2025-01-09 11:57:46,742 WARNING "GET /student/list/ HTTP/1.1" 401 58 213 
+2025-01-09 11:58:04,197 WARNING Unauthorized: /student/list/ 248 
+2025-01-09 11:58:04,200 WARNING "GET /student/list/ HTTP/1.1" 401 58 213 
+2025-01-09 11:59:06,718 WARNING Unauthorized: /student/list/ 248 
+2025-01-09 11:59:06,721 WARNING "GET /student/list/ HTTP/1.1" 401 58 213 
+2025-01-09 11:59:51,692 WARNING Unauthorized: /student/list/ 248 
+2025-01-09 11:59:51,693 WARNING "GET /student/list/?authent HTTP/1.1" 401 58 213 
+2025-01-09 11:59:57,520 WARNING Unauthorized: /student/list/ 248 
+2025-01-09 11:59:57,521 WARNING "GET /student/list/ HTTP/1.1" 401 58 213 
+2025-01-09 12:06:09,426 WARNING Method Not Allowed: /login/ 248 
+2025-01-09 12:06:09,428 WARNING "GET /login/ HTTP/1.1" 405 40 213 
+2025-01-09 12:06:23,686 WARNING Not Found: /login/ 248 
+2025-01-09 12:06:23,688 WARNING "POST /login/ HTTP/1.1" 404 46 213 
+2025-01-09 12:06:47,815 WARNING Not Found: /login/ 248 
+2025-01-09 12:06:47,816 WARNING "POST /login/ HTTP/1.1" 404 41 213 
+2025-01-09 12:07:21,876 INFO "POST /login/ HTTP/1.1" 200 99 213 
+2025-01-09 12:07:45,883 WARNING Unauthorized: /student/list/ 248 
+2025-01-09 12:07:45,885 WARNING "GET /student/list/ HTTP/1.1" 401 58 213 
+2025-01-09 12:08:09,082 WARNING Unauthorized: /student/list/ 248 
+2025-01-09 12:08:09,083 WARNING "GET /student/list/ HTTP/1.1" 401 58 213 
+2025-01-09 12:08:13,098 WARNING Unauthorized: /student/list/ 248 
+2025-01-09 12:08:13,099 WARNING "GET /student/list/ HTTP/1.1" 401 58 213 
+2025-01-09 12:19:56,380 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 12:20:01,166 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:20:33,286 INFO C:\Users\Admin\Desktop\REST API\rest\app\urls.py changed, reloading. 266 
+2025-01-09 12:20:37,946 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:20:50,061 INFO C:\Users\Admin\Desktop\REST API\rest\app\urls.py changed, reloading. 266 
+2025-01-09 12:20:56,009 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:21:05,336 INFO C:\Users\Admin\Desktop\REST API\rest\app\urls.py changed, reloading. 266 
+2025-01-09 12:21:10,482 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:21:21,026 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 12:21:26,016 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:21:58,951 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 12:22:03,276 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:22:26,396 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 12:22:29,736 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:24:01,081 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 12:24:08,705 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:25:26,946 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 12:25:31,133 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:26:47,526 INFO C:\Users\Admin\Desktop\REST API\rest\app\urls.py changed, reloading. 266 
+2025-01-09 12:26:51,904 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:26:59,870 WARNING Not Found: /1/delete/ 248 
+2025-01-09 12:26:59,870 WARNING "GET /1/delete/ HTTP/1.1" 404 3543 213 
+2025-01-09 12:27:10,027 WARNING Not Found: /3/delete/ 248 
+2025-01-09 12:27:10,027 WARNING "GET /3/delete/ HTTP/1.1" 404 3543 213 
+2025-01-09 12:27:49,185 WARNING Not Found: /5/delete/ 248 
+2025-01-09 12:27:49,194 WARNING "GET /5/delete/ HTTP/1.1" 404 3543 213 
+2025-01-09 12:33:52,549 WARNING Not Found: /5/delete/ 248 
+2025-01-09 12:33:52,549 WARNING "GET /5/delete/ HTTP/1.1" 404 3543 213 
+2025-01-09 12:34:31,079 WARNING Method Not Allowed: /student/list/ 248 
+2025-01-09 12:34:31,079 WARNING "POST /student/list/ HTTP/1.1" 405 41 213 
+2025-01-09 12:34:38,040 ERROR Cannot resolve keyword 'is_delete' into field. Choices are: address, age, created_at, created_by, created_by_id, id, is_deleted, mobile_number, name, reference_id, roll_number, updated_at, updated_by, updated_by_id 71 
+Traceback (most recent call last):
+  File "C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py", line 59, in get
+    student = Student.objects.filter(is_delete=False)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 1476, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 1494, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py", line 1501, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\query.py", line 1609, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\query.py", line 1641, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\query.py", line 1491, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg, summarize)
+                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\query.py", line 1303, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\query.py", line 1768, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'is_delete' into field. Choices are: address, age, created_at, created_by, created_by_id, id, is_deleted, mobile_number, name, reference_id, roll_number, updated_at, updated_by, updated_by_id
+2025-01-09 12:34:38,197 WARNING Bad Request: /student/list/ 248 
+2025-01-09 12:34:38,197 WARNING "GET /student/list/ HTTP/1.1" 400 50 213 
+2025-01-09 12:34:56,385 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 12:35:02,714 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:35:12,695 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 12:35:17,693 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:35:24,244 INFO "GET /student/list/ HTTP/1.1" 200 939 213 
+2025-01-09 12:36:18,173 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 12:36:24,562 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:36:39,766 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 12:36:45,336 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:36:56,568 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 12:37:03,024 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:37:13,101 INFO C:\Users\Admin\Desktop\REST API\rest\app\urls.py changed, reloading. 266 
+2025-01-09 12:37:16,730 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:37:26,411 INFO C:\Users\Admin\Desktop\REST API\rest\app\urls.py changed, reloading. 266 
+2025-01-09 12:37:30,743 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:37:41,658 INFO C:\Users\Admin\Desktop\REST API\rest\app\urls.py changed, reloading. 266 
+2025-01-09 12:37:45,152 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:37:54,429 INFO C:\Users\Admin\Desktop\REST API\rest\app\urls.py changed, reloading. 266 
+2025-01-09 12:37:59,000 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:38:08,406 INFO C:\Users\Admin\Desktop\REST API\rest\app\urls.py changed, reloading. 266 
+2025-01-09 12:38:11,935 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:38:20,836 INFO C:\Users\Admin\Desktop\REST API\rest\app\urls.py changed, reloading. 266 
+2025-01-09 12:38:24,560 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:38:37,326 INFO "PUT /student/edit/ HTTP/1.1" 200 949 213 
+2025-01-09 12:39:06,550 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 12:39:14,284 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:39:23,017 INFO "PUT /student/edit/ HTTP/1.1" 200 949 213 
+2025-01-09 12:39:50,696 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 12:39:55,669 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:40:01,879 ERROR Internal Server Error: /student/edit/ 248 
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py", line 87, in put
+    "data":serializers.data
+           ^^^^^^^^^^^
+NameError: name 'serializers' is not defined
+2025-01-09 12:40:01,921 ERROR "PUT /student/edit/ HTTP/1.1" 500 90208 213 
+2025-01-09 12:40:24,133 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 12:40:28,204 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:40:36,741 INFO "PUT /student/edit/ HTTP/1.1" 200 56 213 
+2025-01-09 12:42:58,379 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 12:43:02,638 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:50:48,340 WARNING Not Found: /1/delete/ 248 
+2025-01-09 12:50:48,343 WARNING "DELETE /1/delete/ HTTP/1.1" 404 3815 213 
+2025-01-09 12:51:15,642 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 12:51:20,810 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:53:44,247 INFO Watching for file changes with StatReloader 668 
+2025-01-09 12:53:53,735 INFO "DELETE /student/1/delete/ HTTP/1.1" 200 59 213 
+2025-01-09 12:54:05,314 INFO "DELETE /student/2/delete/ HTTP/1.1" 200 59 213 
+2025-01-09 12:55:02,620 INFO "DELETE /student/5/delete/ HTTP/1.1" 200 59 213 
+2025-01-09 13:03:00,386 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:03:07,209 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:03:23,535 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:03:29,449 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:04:35,139 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:04:41,620 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:05:28,361 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:05:34,198 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:05:46,038 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:05:49,821 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:06:45,422 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 13:06:51,818 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:07:08,566 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 13:07:16,223 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:07:37,058 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 13:07:43,108 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:08:22,626 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 13:08:26,538 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:13:44,777 INFO C:\Users\Admin\Desktop\REST API\rest\app\views\views_students.py changed, reloading. 266 
+2025-01-09 13:13:50,523 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:14:47,883 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:14:53,168 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:15:09,546 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:15:13,450 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:17:50,854 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:17:54,469 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:18:06,063 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:18:11,110 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:18:26,978 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:18:31,508 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:18:46,079 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:18:50,485 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:19:12,665 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:19:16,439 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:19:25,413 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:19:30,584 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:19:51,348 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:19:55,821 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:20:03,933 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:20:09,516 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:20:49,439 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:20:57,427 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:22:24,474 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:22:31,637 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:22:52,844 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:22:55,975 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:23:07,126 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:23:19,301 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:26:11,807 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:26:18,011 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:26:27,333 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:26:30,298 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:26:37,951 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:26:41,777 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:26:54,946 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:26:59,995 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:27:10,667 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:27:15,556 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:27:29,586 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:27:35,005 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:27:56,803 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:28:00,456 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:28:09,065 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:28:12,741 INFO Watching for file changes with StatReloader 668 
+2025-01-09 13:28:29,679 INFO C:\Users\Admin\Desktop\REST API\rest\app\serializer\serializer_student.py changed, reloading. 266 
+2025-01-09 13:28:36,166 INFO Watching for file changes with StatReloader 668 
